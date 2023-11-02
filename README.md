@@ -1,2 +1,2 @@
-# LANDING PAGE
-A simple landing page designed using HTML and CSS.
+# PERSONAL PORTFOLIO WEBSITE
+A simple portfolio website designed using HTML, CSS and JavaScript
